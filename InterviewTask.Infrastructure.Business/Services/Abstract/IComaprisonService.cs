@@ -1,7 +1,5 @@
-﻿using InterviewTask.Domain.Core.Models.Abstract;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
+using InterviewTask.Domain.Core.Models.Abstract;
 
 namespace InterviewTask.Infrastructure.Business.Services.Abstract
 {

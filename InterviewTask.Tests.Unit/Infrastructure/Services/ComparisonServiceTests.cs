@@ -1,11 +1,10 @@
-﻿using InterviewTask.Domain.Core.Models;
-using InterviewTask.Domain.Core.Models.Abstract;
-using InterviewTask.Infrastructure.Business.Services;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using InterviewTask.Domain.Core.Models;
+using InterviewTask.Domain.Core.Models.Abstract;
+using InterviewTask.Infrastructure.Business.Services;
 
 namespace InterviewTask.Tests.Unit.Infrastructure.Services
 {

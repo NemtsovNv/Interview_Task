@@ -1,6 +1,6 @@
-﻿using InterviewTask.Common.Shared;
+﻿using System;
+using InterviewTask.Common.Shared;
 using InterviewTask.Domain.Core.Models.Abstract;
-using System;
 
 namespace InterviewTask.Domain.Core.Models
 {

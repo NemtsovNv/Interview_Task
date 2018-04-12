@@ -1,6 +1,6 @@
-﻿using InterviewTask.Domain.Core.Models;
+﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
+using InterviewTask.Domain.Core.Models;
 
 namespace InterviewTask.Tests.Unit.Domain.Models
 {
