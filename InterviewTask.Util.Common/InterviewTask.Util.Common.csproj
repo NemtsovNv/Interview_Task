@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\InterviewTask.Infrastructure.Business\InterviewTask.Infrastructure.Business.csproj" />
-  </ItemGroup>
-
 </Project>
