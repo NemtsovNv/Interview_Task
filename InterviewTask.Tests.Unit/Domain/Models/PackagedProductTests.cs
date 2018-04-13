@@ -71,7 +71,7 @@ namespace InterviewTask.Tests.Unit.Domain.Models
         }
 
         [TestMethod]
-        [ExpectedException(typeof(ArgumentException), "Consumption can not be less than zero.")]
+        [ExpectedException(typeof(ArgumentException), "Argument can not be less than zero.")]
         public void CalculateAnnualCosts_Throws_Argument_Exception_Less_Then_Zero()
         {
             // Assert

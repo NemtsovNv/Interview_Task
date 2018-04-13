@@ -14,7 +14,7 @@ namespace InterviewTask.Domain.Core.Models
         {
             if (consumption < 0)
             {
-                throw new ArgumentException("Consumption can not be less than zero.");
+                throw new ArgumentException("Argument can not be less than zero.", nameof(consumption));
             }
 
             AnnualCosts = (ProductConsts.BasicProductBaseCosts * 12) +

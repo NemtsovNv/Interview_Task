@@ -24,7 +24,7 @@ namespace InterviewTask.Infrastructure.Business.Services
         {
             if (consumption < 0)
             {
-                throw new ArgumentException("Consumption can not be less than zero.");
+                throw new ArgumentException("Argument can not be less than zero.", nameof(consumption));
             }
 
             foreach (var product in products)

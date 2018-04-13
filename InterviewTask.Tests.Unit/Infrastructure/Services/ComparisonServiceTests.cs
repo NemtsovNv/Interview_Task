@@ -108,7 +108,7 @@ namespace InterviewTask.Tests.Unit.Infrastructure.Services
         }
 
         [TestMethod]
-        [ExpectedException(typeof(ArgumentException), "Consumption can not be less than zero.")]
+        [ExpectedException(typeof(ArgumentException), "Argument can not be less than zero.")]
         public void CompareProducts_Throws_Argument_Exception_Less_Then_Zero()
         {
             // Arrange
