@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\InterviewTask.Domain.Core\InterviewTask.Domain.Core.csproj" />
-    <ProjectReference Include="..\InterviewTask.Shared\InterviewTask.Shared.csproj" />
+    <ProjectReference Include="..\InterviewTask.Shared\InterviewTask.Common.Shared.csproj" />
   </ItemGroup>
 
 </Project>

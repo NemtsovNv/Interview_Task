@@ -15,11 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewTask.Console", "In
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InterviewTask.Common", "InterviewTask.Common", "{986A3B17-CBCB-4E84-A167-A453F74900E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewTask.Shared", "InterviewTask.Shared\InterviewTask.Shared.csproj", "{B970C9A2-2279-4B6B-91CC-559C7CD5E87E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewTask.Common.Shared", "InterviewTask.Shared\InterviewTask.Common.Shared.csproj", "{B970C9A2-2279-4B6B-91CC-559C7CD5E87E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InterviewTask.Tests", "InterviewTask.Tests", "{C1397AC8-E74E-4CCB-BC51-68EE55164EA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewTask.Tests.Unit", "InterviewTask.Tests.Unit\InterviewTask.Tests.Unit.csproj", "{AEE74FF2-7EB7-4414-98A8-EB476228ED18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewTask.Tests.Unit", "InterviewTask.Tests.Unit\InterviewTask.Tests.Unit.csproj", "{AEE74FF2-7EB7-4414-98A8-EB476228ED18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
